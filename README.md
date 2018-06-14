@@ -1,24 +1,7 @@
-# README
+to run:
+bundle
+bin/rails db:seed
+bin/rails s
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+page 1 is demo of component interaction
+page 2 is demo of fetching data via axios
